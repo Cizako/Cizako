@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Isak Knutsosn
+# 👋 Hi, I’m Isak Knutsson
 
 
 - 👀 I’m interested in machine learning, computer vision, and building fun or useful tools.
