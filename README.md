@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @Cizako
+# 👋 Hi, I’m Isak Knutsosn
+
 
 - 👀 I’m interested in machine learning, computer vision, and building fun or useful tools.
 <!---
